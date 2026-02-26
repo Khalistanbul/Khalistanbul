@@ -1,8 +1,10 @@
 # Khalis Attou
 
-🎓 PhD Candidate in Computational Materials Science  
-🧪 Atomistic simulations of amorphous silica and confined water  
+🧑‍💻 PhD Candidate in Computational Materials Science  
+🧪 Silica–Water Interactions | Nanoconfined Fluids | Molecular Dynamics  
 
-I study the nanostructuration of silica induced by molecular water trapped in nanoscale pores within a glass matrix. Using molecular dynamics (LAMMPS) and Python-based structural analysis, I investigate densification, pore evolution, and network reorganization during thermal treatments.
+I investigate how water interacts with and modifies silica glass, particularly in the context of hydration and nanoconfinement. As water becomes an inherent by-product of emerging low-carbon glass manufacturing processes, understanding its impact on structural, dynamical, and mechanical properties is critical.
 
-💻 Molecular Dynamics | 🧊 Silica–Water Systems | 🔬 Porosity Evolution | ⚙️ HPC Workflows | 🐍 Scientific Python
+Using large-scale molecular dynamics simulations (LAMMPS), I study nanoconfined water trapped in silica pores and its influence across nano- to macroscopic scales. My work explores hydration levels, pore size distributions, and interatomic potential comparisons (ReaxFF, DCRP) to better capture the diversity of water–silica interactions and their effect on glass behavior.
+
+💻 Molecular Dynamics | 🌊 Confined Water | 🧊 Silicate Glass | 🔬 Mechanics & Structure | ⚙️ HPC | 🐍 Scientific Python
